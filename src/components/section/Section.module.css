@@ -1,0 +1,11 @@
+.section {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    padding: 30px;
+    background-color: #ffa000fa;;
+    
+}
+.section h2 {
+    text-align: center;
+}
